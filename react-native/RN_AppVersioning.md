@@ -234,6 +234,8 @@ Maintain a [`CHANGELOG.md`](http://CHANGELOG.md) file:
 ```markdown
 # Changelog
 
+All notable changes to this project will be documented in this file.
+
 ## [1.0.1] - 2024-01-15
 
 ### Fixed
@@ -247,6 +249,23 @@ Maintain a [`CHANGELOG.md`](http://CHANGELOG.md) file:
 - Initial release
 - User authentication
 - Basic dashboard
+
+## Version History Summary
+
+| Version | Release Date | Major Changes                                   |
+| ------- | ------------ | ----------------------------------------------- |
+| 2.5.0   | 2025-08-27   | Add new - Speech To Text                        |
+| 2.4.0   | 2025-08-16   | Add new - voiceover                             |
+| 2.3.0   | 2025-07-16   | Performance optimizations, React Native upgrade |
+
+## Categories Legend
+
+- **Added** - New features
+- **Changed** - Changes in existing functionality
+- **Deprecated** - Soon-to-be removed features
+- **Removed** - Removed features
+- **Fixed** - Bug fixes
+- **Security** - Vulnerability fixes
 ```
 
 This comprehensive approach ensures consistent versioning across both platforms and smooth app store submissions.
